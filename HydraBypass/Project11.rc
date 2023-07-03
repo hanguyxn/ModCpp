@@ -1,0 +1,85 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE
+BEGIN
+"resource2.h\0"
+END
+
+2 TEXTINCLUDE
+BEGIN
+"#include ""winres.h""\r\n"
+"\0"
+END
+
+3 TEXTINCLUDE
+BEGIN
+"\r\n"
+"\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// RCDATA
+//
+
+
+
+IDR_RCDATA3             RCDATA                  "Driv\\MemDrv.sys"
+IDR_RCDATA4             RCDATA                  "Driv\\1.dll"
+IDR_RCDATA5             RCDATA                  "Driv\\2.dll"
+IDR_RCDATA6             RCDATA                  "Driv\\3.dll"
+IDR_RCDATA7             RCDATA                  "Driv\\AdbWinApi.dll"
+IDR_RCDATA8             RCDATA                  "Driv\\adb.exe"
+IDR_RCDATA9             RCDATA                  "Driv\\fix98.bat"
+IDR_RCDATA10            RCDATA                  "Driv\\GL.bat"
+IDR_RCDATA11            RCDATA                  "Driv\\KR.bat"
+IDR_RCDATA12            RCDATA                  "Driv\\TW.bat"
+IDR_RCDATA13            RCDATA                  "Driv\\VNG.bat"
+IDR_RCDATA14            RCDATA                  "Driv\\BGMI.bat"
+IDR_RCDATA15            RCDATA                  "Driv\\host.txt"
+
+
+IDI_ICON1               ICON                    "small.ico"
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
